@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">LatihanRecyclerView</string>
+
+    <string-array name="namaWayang">
+        <item>Bima</item>
+        <item>Arjuna</item>
+        <item>Nakula</item>
+        <item>Sadewa</item>
+        <item>Gatotkaca</item>
+        <item>Semar</item>
+        <item>Gareng</item>
+        <item>Petruk</item>
+        <item>Baladewa</item>
+        <item>Duryodhana</item>
+    </string-array>
+
+    <string-array name="deskripsiWayang">
+        <item>Anak kedua Pandawa yang paling kuat dan gagah berani.</item>
+        <item>Anak ketiga Pandawa yang rupawan dan ahli memanah.</item>
+        <item>Anak keempat Pandawa yang pandai merawat hewan dan mahir dalam ilmu pertarungan.</item>
+        <item>Anak kelima Pandawa yang mahir dalam ilmu pengetahuan dan mampu berkomunikasi dengan binatang.</item>
+        <item>Anak Bima yang sakti dan memiliki kekuatan luar biasa.</item>
+        <item>Guru dan penasihat Pandawa yang bijaksana dan sakti.</item>
+        <item>Adik Semar yang lucu dan suka bercanda.</item>
+        <item>Kakak Semar yang bijaksana dan suka mengkritik.</item>
+        <item>Kakak Bima yang sakti dan memiliki sifat keras kepala.</item>
+        <item>Anak tertua Destarata yang ambisius dan ingin merebut tahta Pandawa.</item>
+    </string-array>
+
+    <string-array name="karakterUtamaWayang">
+        <item>Pandawa</item>
+        <item>Pandawa</item>
+        <item>Pandawa</item>
+        <item>Pandawa</item>
+        <item>Pandawa</item>
+        <item>Punakawan</item>
+        <item>Punakawan</item>
+        <item>Punakawan</item>
+        <item>Kurawa</item>
+        <item>Kurawa</item>
+    </string-array>
+
+    <string-array name="gambarWayang">
+        <item>https://s3-ceph.indoteam.id/chatnews-bucket-production/wp-content/production/uploads/2022/07/21121548/image-43.png</item>
+        <item>https://www.wayangstore.com/wp-content/uploads/2019/07/Instagram_ceritawayang_45796947_192846101658100_3507697142231434355_n.jpg</item>
+        <item>https://www.wayangstore.com/wp-content/uploads/2019/07/Instagram_ceritawayang_46778668_104069470580850_4259656316942649071_n.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/26/Sadewa.jpg</item>
+        <item>https://png.pngtree.com/png-clipart/20230411/original/pngtree-wayang-kulit-gatot-kaca-werkudara-traditional-indonesian-javanese-art-png-image_9045855.png</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-1351452/oem_oem-punakawan-semar-wayang-aksesoris-kaca-car-decal-sticker-mobil_full03.jpg</item>
+        <item>https://coretanpetualang.wordpress.com/wp-content/uploads/2010/09/gareng-1.png</item>
+        <item>https://www.shutterstock.com/shutterstock/photos/1346034566/display_1500/stock-vector-petruk-wayang-punakawan-clown-character-indonesian-traditional-shadow-puppet-vector-1346034566.jpg</item>
+        <item>https://www.shutterstock.com/shutterstock/photos/1341605165/display_1500/stock-vector-wayang-baladewa-character-indonesian-traditional-shadow-puppet-vector-illustration-1341605165.jpg</item>
+        <item>https://museum.kemdikbud.go.id/storage//assets/images/museums/13/21352/4373.jpg</item>
+    </string-array>
+</resources>
