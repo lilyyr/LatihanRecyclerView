@@ -8,7 +8,7 @@
     <ImageView
         android:id="@+id/gambarWayang"
         android:layout_width="84dp"
-        android:layout_height="99dp"
+        android:layout_height="140dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.039"
@@ -37,11 +37,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="karakterWayang"
+        android:textColor=" #a4c639"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.313"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.33"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -49,12 +51,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="deskripsiWayang"
+        android:ellipsize="end"
+        android:maxLines="3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.319"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
+        app:layout_constraintVertical_bias="0.669"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnHapus"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="HAPUS DATA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.909"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.998"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
